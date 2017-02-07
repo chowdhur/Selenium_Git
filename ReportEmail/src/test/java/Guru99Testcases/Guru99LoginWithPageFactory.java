@@ -17,7 +17,7 @@ public class Guru99LoginWithPageFactory {
 
     Guru99HomePage objHomePage;
 
-    //Test6
+    //Test7
     @BeforeTest
 
     public void setup(){
